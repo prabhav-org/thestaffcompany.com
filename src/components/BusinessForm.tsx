@@ -66,7 +66,7 @@ const BusinessForm = () => {
         {/* left side */}
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="animate-fade-in">
-            <p className="text-primary font-medium mb-3">StaffChahiye for your business</p>
+            <p className="text-primary font-medium mb-3">TheStaffCompany for your business</p>
             <h2 className="text-3xl md:text-4xl font-bold mb-6">Get your Staff Within 24-72 Hours!</h2>
             
             <p className="text-foreground/70 mb-8">

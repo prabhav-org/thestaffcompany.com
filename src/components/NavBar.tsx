@@ -75,7 +75,7 @@ const NavBar = () => {
         <a href="#" className="flex items-center">
           <img 
             src="/brandlogo_transparent.png" 
-            alt="StaffChahiye.com Logo" 
+            alt="TheStaffCompany.com Logo" 
             className="h-10 md:h-12"
           />
         </a>

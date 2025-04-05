@@ -16,7 +16,7 @@ const About = () => {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="glass-card p-8 md:p-10 rounded-2xl animate-fade-in">
             <p className="text-lg md:text-xl leading-relaxed text-foreground/90">
-              <strong>StaffChahiye</strong> started as a social service project to help underserved blue collar workers get employment and earn a livelihood for their families. 
+              <strong>TheStaffCompany</strong> started as a social service project to help underserved blue collar workers get employment and earn a livelihood for their families. 
               <p className="text-lg md:text-xl leading-relaxed text-foreground/90 mt-6">
               Most of them aren't familar with technology and hence we help them get access to job opportunities with just a phone call or message.
               </p>

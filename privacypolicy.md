@@ -1,7 +1,7 @@
-# StaffChahiye.com Privacy Policy
+# TheStaffCompany.com Privacy Policy
 
 ## Introduction
-- This Privacy Policy explains how StaffChahiye.com ("we," "us," or "our") collects, uses, shares, and protects the personal information of job seekers and businesses using our platform.
+- This Privacy Policy explains how TheStaffCompany.com ("we," "us," or "our") collects, uses, shares, and protects the personal information of job seekers and businesses using our platform.
 - By using our services, you agree to the collection and use of information in accordance with this policy.
 
 ## Information We Collect
@@ -63,7 +63,7 @@
 
 ## Contact Information
 - For questions or concerns about this Privacy Policy, please contact us at:
-  - Email: contact@StaffChahiye.com
+  - Email: contact@TheStaffCompany.com
 
 ## Governing Law
 - This Privacy Policy is governed by the laws of India and applicable data protection regulations

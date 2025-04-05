@@ -9,8 +9,8 @@ const Footer = () => {
           <div className="animate-fade-in">
             <div className="mb-4">
               <a href="#" className="text-2xl font-semibold tracking-tight flex items-center">
-                <span className="text-primary">Staff</span>
-                <span>Chahiye</span><span className='text-md text-secondary'>.com</span>
+                <span className="text-primary">TheStaff</span>
+                <span>Company</span><span className='text-md text-secondary'>.com</span>
               </a>
             </div>
             <p className="text-foreground/70 mb-6">
@@ -64,9 +64,9 @@ const Footer = () => {
               <li className="flex items-center">
                 <Mail className="h-5 w-5 text-primary mr-3 flex-shrink-0" />
                 <a target="_blank" 
-                href="mailto:contact@staffchahiye.com" 
+                href="mailto:contact@thestaffcompany.com" 
                 className="text-foreground/70 hover:text-primary transition-colors">
-                  contact@StaffChahiye.com
+                  contact@TheStaffCompany.com
                 </a>
               </li>
             </ul>
@@ -113,7 +113,7 @@ const Footer = () => {
           </div>
           
           <p className="text-sm text-foreground/60">
-            &copy; {new Date().getFullYear()} StaffChahiye. All rights reserved.
+            &copy; {new Date().getFullYear()} TheStaffCompany. All rights reserved.
             <br/>
             Built with 🧡 by Sujān
           </p>
