@@ -29,8 +29,8 @@ const Footer = () => {
                 { label: "Home", href: "#home" },
                 { label: "About Us", href: "#about" },
                 { label: "Staff", href: "#staff" },
-                // { label: "Our Partners", href: "#partners" },
-                // { label: "Join Talent Pool", href: "#contact" }
+                { label: "Privacy Policy", href: "/privacy-policy" },
+                { label: "Terms of Service", href: "/terms-of-service" }
               ].map((link, index) => (
                 <li key={index}>
                   <a 
@@ -95,7 +95,7 @@ const Footer = () => {
             {['instagram'].map((social) => (
               <a 
                 key={social}
-                href="https://instagram.com/StaffChahiye"
+                href="https://instagram.com/thestaffcompany"
                 target='_blank'
                 className="h-10 w-10 rounded-full bg-secondary flex items-center justify-center text-foreground/70 hover:bg-primary hover:text-white transition-colors"
                 aria-label={`Follow us on ${social}`}
@@ -119,8 +119,8 @@ const Footer = () => {
           </p>
           
           <div className="flex justify-center space-x-4 mt-2 text-xs text-foreground/50">
-            <a href="#" className="hover:text-primary transition-colors">Privacy Policy</a>
-            <a href="#" className="hover:text-primary transition-colors">Terms of Service</a>
+            <a href="/privacy-policy" className="hover:text-primary transition-colors">Privacy Policy</a>
+            <a href="/terms-of-service" className="hover:text-primary transition-colors">Terms of Service</a>
             <a href="#" className="hover:text-primary transition-colors">Cookies</a>
           </div>
         </div>

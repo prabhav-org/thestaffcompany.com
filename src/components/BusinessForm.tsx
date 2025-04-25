@@ -92,7 +92,7 @@ const BusinessForm = () => {
               className="instagram-embed-container h-[450px] md:h-[600px] w-full"
             >
               <iframe
-                src="https://www.instagram.com/staffchahiye/embed"
+                src="https://www.instagram.com/thestaffcompany/embed"
                 width="100%"
                 height="100%"
                 style={{ background: "transparent", border: "none" }}
